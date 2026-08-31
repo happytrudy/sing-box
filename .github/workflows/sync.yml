@@ -1,4 +1,4 @@
-name: Sync luci-app-homeproxy
+name: Sync sing-box
 on:
   schedule:
     - cron: '0 2 * * *'
